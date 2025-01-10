@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.matiassanchez.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["BA:A6:15:85:C9:DC:67:29:4E:49:19:A3:0C:E3:EB:F3:A0:49:49:25:0C:C8:9B:12:FC:1B:0E:BC:05:EE:D5:EB"]
+    }
+  }]
